@@ -1,2 +1,2 @@
 # git_training
-This is my first repository - I am sad
+This is my first repository - I am happy
