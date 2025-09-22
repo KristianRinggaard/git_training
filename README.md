@@ -1,5 +1,3 @@
 # git_training
 This is my first repository - I am happy
-I am looking forward to learning more. 
-New comments
-Jeg er god
+
